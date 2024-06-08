@@ -35,4 +35,5 @@ abstract: Many cyanobacteria, which use light as an energy source via photosynth
 links:
 - name: URL
   url: https://elifesciences.org/articles/73405
+featured: true
 ---
