@@ -1,0 +1,35 @@
+---
+title: Control of light-dependent behaviour in cyanobacteria by the second messenger
+  cyclic di-GMP
+authors:
+- Gen Enomoto
+- Thomas Wallner
+- Annegret Wilde
+date: '2023-01-01'
+publishDate: '2024-06-08T02:14:34.035967Z'
+publication_types:
+- article-journal
+publication: '*microLife*'
+doi: 10.1093/femsml/uqad019
+abstract: Nucleotide-derived signalling molecules control a wide range of cellular
+  processes in all organisms. The bacteria-specific cyclic dinucleotide c-di-GMP plays
+  a crucial role in regulating motility-to-sessility transitions, cell cycle progression,
+  and virulence. Cyanobacteria are phototrophic prokaryotes that perform oxygenic
+  photosynthesis and are widespread microorganisms that colonize almost all habitats
+  on Earth. In contrast to photosynthetic processes that are well understood, the
+  behavioural responses of cyanobacteria have rarely been studied in detail. Analyses
+  of cyanobacterial genomes have revealed that they encode a large number of proteins
+  that are potentially involved in the synthesis and degradation of c-di-GMP. Recent
+  studies have demonstrated that c-di-GMP coordinates many different aspects of the
+  cyanobacterial lifestyle, mostly in a light-dependent manner. In this review, we
+  focus on the current knowledge of light-regulated c-di-GMP signalling systems in
+  cyanobacteria. Specifically, we highlight the progress made in understanding the
+  most prominent behavioural responses of the model cyanobacterial strains Thermosynechococcus
+  vulcanus and Synechocystis sp. PCC 6803. We discuss why and how cyanobacteria extract
+  crucial information from their light environment to regulate ecophysiologically
+  important cellular responses. Finally, we emphasize the questions that remain to
+  be addressed.
+links:
+- name: URL
+  url: https://academic.oup.com/microlife/article/doi/10.1093/femsml/uqad019/7116477
+---
