@@ -24,7 +24,7 @@ sections:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: sun-light.jpg
+          filename: stacked-peaks.svg
           filters:
             brightness: 1.0
           size: cover
@@ -52,8 +52,8 @@ sections:
           - publication
         featured_only: true
     design:
-      view: article-grid
-      columns: 2
+      view: compact
+      columns: 1
   - block: collection
     content:
       title: Recent Publications
